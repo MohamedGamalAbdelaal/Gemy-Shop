@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { RouterProvider, createBrowserRouter } from 'react-router-dom'
+import { RouterProvider, createBrowserRouter, createHashRouter } from 'react-router-dom'
 import Home from './components/Home/Home'
 import Brands from './components/Brands/Brands'
 import Proudcts from './components/Products/Products'
@@ -20,10 +20,10 @@ import Payment from './components/Payment/Payment';
 import AllOrders from './components/AllOrders/AllOrders';
 import { Offline, Online } from "react-detect-offline";
 let clientQuery=new QueryClient()
-let routers = createBrowserRouter([
+let routers = createHashRouter([
   {
     path: "/", element: <Layout />, children: [
-      { index: true, element: <Home /> },
+      { index: true, element: <Proudcts/> },
       { path: 'Brands', element:<ProtectedRoute><Brands /></ProtectedRoute> },
       { path: 'Profile', element:<ProtectedRoute><Profile /></ProtectedRoute> },
       { path: 'Payment', element:<ProtectedRoute><Payment /></ProtectedRoute> },
