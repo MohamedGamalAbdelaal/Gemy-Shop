@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Gemy-Shop/static/css/main.026f723f.css",
-    "main.js": "/Gemy-Shop/static/js/main.a12ebae4.js",
+    "main.js": "/Gemy-Shop/static/js/main.4e4e8017.js",
     "static/js/787.28cb0dcd.chunk.js": "/Gemy-Shop/static/js/787.28cb0dcd.chunk.js",
     "static/media/blog-img-2.jpeg": "/Gemy-Shop/static/media/blog-img-2.69e5e73301d9616ba8c6.jpeg",
     "static/media/blog-img-1.jpeg": "/Gemy-Shop/static/media/blog-img-1.3e2f37267e1d1d5c8c75.jpeg",
@@ -25,11 +25,11 @@
     "static/media/slick.woff": "/Gemy-Shop/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Gemy-Shop/index.html",
     "main.026f723f.css.map": "/Gemy-Shop/static/css/main.026f723f.css.map",
-    "main.a12ebae4.js.map": "/Gemy-Shop/static/js/main.a12ebae4.js.map",
+    "main.4e4e8017.js.map": "/Gemy-Shop/static/js/main.4e4e8017.js.map",
     "787.28cb0dcd.chunk.js.map": "/Gemy-Shop/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.026f723f.css",
-    "static/js/main.a12ebae4.js"
+    "static/js/main.4e4e8017.js"
   ]
 }
