@@ -1,20 +1,19 @@
 {
   "files": {
-    "main.css": "/Gemy-Shop/static/css/main.026f723f.css",
-    "main.js": "/Gemy-Shop/static/js/main.4e4e8017.js",
+    "main.css": "/Gemy-Shop/static/css/main.8b04b2e6.css",
+    "main.js": "/Gemy-Shop/static/js/main.dc98446d.js",
     "static/js/787.28cb0dcd.chunk.js": "/Gemy-Shop/static/js/787.28cb0dcd.chunk.js",
-    "static/media/blog-img-2.jpeg": "/Gemy-Shop/static/media/blog-img-2.69e5e73301d9616ba8c6.jpeg",
-    "static/media/blog-img-1.jpeg": "/Gemy-Shop/static/media/blog-img-1.3e2f37267e1d1d5c8c75.jpeg",
     "static/media/banner-4.jpeg": "/Gemy-Shop/static/media/banner-4.3abc5952e7e65dbdd60f.jpeg",
     "static/media/fa-solid-900.ttf": "/Gemy-Shop/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
-    "static/media/slider-image-1.jpeg": "/Gemy-Shop/static/media/slider-image-1.3c3940ee0f1c3b17ff9a.jpeg",
-    "static/media/grocery-banner.png": "/Gemy-Shop/static/media/grocery-banner.2c56649c9cbe2e19b86f.png",
     "static/media/fa-brands-400.ttf": "/Gemy-Shop/static/media/fa-brands-400.016b4a6cdced82ab3aa1.ttf",
-    "static/media/slider-image-2.jpeg": "/Gemy-Shop/static/media/slider-image-2.e510b0de8a4d96a1d5ad.jpeg",
-    "static/media/grocery-banner-2.jpeg": "/Gemy-Shop/static/media/grocery-banner-2.7a4a78a90acc3d5847cb.jpeg",
     "static/media/fa-solid-900.woff2": "/Gemy-Shop/static/media/fa-solid-900.b6879d41b0852f01ed5b.woff2",
     "static/media/fa-brands-400.woff2": "/Gemy-Shop/static/media/fa-brands-400.878f31251d960bd6266f.woff2",
+    "static/media/6.jpg": "/Gemy-Shop/static/media/6.158d8ef7ae702e35d3b6.jpg",
     "static/media/fa-regular-400.ttf": "/Gemy-Shop/static/media/fa-regular-400.50701fbb8177c2dde530.ttf",
+    "static/media/logo-no-background.png": "/Gemy-Shop/static/media/logo-no-background.c40626d5e1a1490d8990.png",
+    "static/media/5.jpg": "/Gemy-Shop/static/media/5.78490fa1030766555005.jpg",
+    "static/media/3.jpg": "/Gemy-Shop/static/media/3.1f8aed3b820057cc341a.jpg",
+    "static/media/1.jpg": "/Gemy-Shop/static/media/1.172ef88d84d101ccdc5d.jpg",
     "static/media/fa-regular-400.woff2": "/Gemy-Shop/static/media/fa-regular-400.b041b1fa4fe241b23445.woff2",
     "static/media/freshcart-logo.svg": "/Gemy-Shop/static/media/freshcart-logo.53f7a424c3aedc30a0fb46dc2278137c.svg",
     "static/media/fa-v4compatibility.ttf": "/Gemy-Shop/static/media/fa-v4compatibility.c6a0c95b0a95c4553700.ttf",
@@ -24,12 +23,12 @@
     "static/media/slick.ttf": "/Gemy-Shop/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/Gemy-Shop/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Gemy-Shop/index.html",
-    "main.026f723f.css.map": "/Gemy-Shop/static/css/main.026f723f.css.map",
-    "main.4e4e8017.js.map": "/Gemy-Shop/static/js/main.4e4e8017.js.map",
+    "main.8b04b2e6.css.map": "/Gemy-Shop/static/css/main.8b04b2e6.css.map",
+    "main.dc98446d.js.map": "/Gemy-Shop/static/js/main.dc98446d.js.map",
     "787.28cb0dcd.chunk.js.map": "/Gemy-Shop/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.026f723f.css",
-    "static/js/main.4e4e8017.js"
+    "static/css/main.8b04b2e6.css",
+    "static/js/main.dc98446d.js"
   ]
 }
