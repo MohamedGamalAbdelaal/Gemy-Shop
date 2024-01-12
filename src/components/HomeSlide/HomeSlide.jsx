@@ -7,26 +7,26 @@ export default function HomeSlide() {
         dots: true,
         infinite: true,
         speed: 500,
-        slidesToShow: 1,
+        slidesToShow: 3,
         slidesToScroll: 1,
         arrows :false
       };
 
       return <div>
-        <div className="row gx-0 m-4">
-            <div className="col-sm-9">
+        
+            <div className="products mx-auto w-100 my-4">
             <Slider {...settings}>
             <div>
-             <img style={{width:'100%',height:'350px'}} src={require("../../Assets//images/grocery-banner-2.jpeg")} alt="" />
+             <img style={{width:'100%',height:'350px'}} src={require("../../Assets//images/5.jpg")} alt="" />
             </div>
             <div>
-            <img style={{width:'100%',height:'350px'}} src={require("../../Assets//images/blog-img-2.jpeg")} alt="" />
+            <img style={{width:'100%',height:'350px'}} src={require("../../Assets//images/6.jpg")} alt="" />
             </div>
             <div>
-            <img style={{width:'100%',height:'350px'}} src={require("../../Assets//images/grocery-banner.png")} alt="" />
+            <img style={{width:'100%',height:'350px'}} src={require("../../Assets//images/3.jpg")} alt="" />
             </div>
             <div>
-            <img style={{width:'100%',height:'350px'}} src={require("../../Assets//images/blog-img-1.jpeg")} alt="" />
+            <img style={{width:'100%',height:'350px'}} src={require("../../Assets//images/1.jpg")} alt="" />
             </div>
             <div>
             <img style={{width:'100%',height:'350px'}} src={require("../../Assets//images/banner-4.jpeg")} alt="" />
@@ -34,11 +34,8 @@ export default function HomeSlide() {
             
           </Slider>
             </div>
-            <div className="col-sm-3">
-                <img style={{width:'100%', height:'175px'}} src={require('../../Assets/images/slider-image-2.jpeg')} alt="" />
-                <img style={{width:'100%', height:'175px'}} src={require('../../Assets/images/slider-image-1.jpeg')} alt="" />
-            </div>
-        </div>
+            
+    
         
         </div>
       

@@ -8,6 +8,7 @@ import CategorySlide from '../CategorySlide/CategorySlide';
 import { Link } from 'react-router-dom'
 import { cartContext } from '../../Context/cartContext';
 import toast from 'react-hot-toast';
+import Categories from './../Categories/Categories';
 
 
 export default function Products(){
@@ -61,6 +62,7 @@ visible={true}
 :
     <div className="container">
         <HomeSlide/>
+        <h1>Categories</h1>
         <CategorySlide/>
     <div className="row g-4">
     {data?.data.data.map(function(product,idx){ 
