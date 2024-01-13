@@ -1,3 +1,15 @@
 .logo3 {
     width: 100px;  
 }
+.nav-item{
+    margin: 5px 10px;
+    padding: 2px 5px 2px 5px;
+}
+.nav-item:hover{
+    background-color:var(--main-color);
+    
+    border-radius: 20px;
+}
+.navbar{
+    padding:30px;
+}
