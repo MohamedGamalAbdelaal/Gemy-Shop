@@ -3,11 +3,11 @@
 }
 .nav-item{
     margin: 5px 10px;
-    padding: 2px 5px 2px 5px;
+    padding: 2px 5px 2px 5px !important;
 }
 .nav-item:hover{
     background-color:var(--main-color);
-    
+    color: white;
     border-radius: 20px;
 }
 .navbar{
